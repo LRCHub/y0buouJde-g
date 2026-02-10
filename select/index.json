@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Cold Night",
+  "base_artist": "HANA",
+  "createdAt": "2026-02-10T08:43:02.879289Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cold Cold Night",
+      "artist": "Ceremony",
+      "has_synced": true,
+      "path": "select/01_Cold_Cold_Night_Ceremony.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cold Night",
+      "artist": "Folk Implosion",
+      "has_synced": false,
+      "path": "select/02_Cold_Night_Folk_Implosion.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cold Night",
+      "artist": "Galaxie 500",
+      "has_synced": true,
+      "path": "select/03_Cold_Night_Galaxie_500.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Such A Cold Night Tonight - Remastered",
+      "artist": "Adriano Celentano",
+      "has_synced": true,
+      "path": "select/04_Such_A_Cold_Night_Tonight_-_Remastered_Adriano_Celentano.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "In the Cold, Cold Night",
+      "artist": "The White Stripes",
+      "has_synced": true,
+      "path": "select/05_In_the_Cold,_Cold_Night_The_White_Stripes.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "A Cold Night Close To The End",
+      "artist": "Said The Whale",
+      "has_synced": true,
+      "path": "select/06_A_Cold_Night_Close_To_The_End_Said_The_Whale.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cold Night",
+      "artist": "You Me At Six",
+      "has_synced": true,
+      "path": "select/07_Cold_Night_You_Me_At_Six.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cold Night",
+      "artist": "Yeasayer",
+      "has_synced": false,
+      "path": "select/08_Cold_Night_Yeasayer.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "It's a Cold Night for Alligators",
+      "artist": "Roky Erickson",
+      "has_synced": true,
+      "path": "select/09_It's_a_Cold_Night_for_Alligators_Roky_Erickson.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "It's a Cold Night For Alligato",
+      "artist": "Roky Erickson",
+      "has_synced": true,
+      "path": "select/10_It's_a_Cold_Night_For_Alligato_Roky_Erickson.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Warm on a Cold Night",
+      "artist": "HONNE",
+      "has_synced": true,
+      "path": "select/11_Warm_on_a_Cold_Night_HONNE.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Warm on a Cold Night (feat. Amine)",
+      "artist": "HONNE feat. Amine",
+      "has_synced": false,
+      "path": "select/12_Warm_on_a_Cold_Night_(feat._Amine)_HONNE_feat._Amine.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Warm on a Cold Night (feat. Aminé)",
+      "artist": "Honne",
+      "has_synced": true,
+      "path": "select/13_Warm_on_a_Cold_Night_(feat._Aminé)_Honne.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Even When It Hurts (Praise Song) - In The Cold Night Of A Not Too Distant War",
+      "artist": "Hillsong UNITED feat. TAYA",
+      "has_synced": true,
+      "path": "select/14_Even_When_It_Hurts_(Praise_Song)_-_In_The_Cold_Night_Of_A_Not_Too_Distant_War_Hillsong_UNITED_feat._TAYA.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Even When It Hurts (Praise Song) [In The Cold Night Of A Not Too Distant War] (Live)",
+      "artist": "Hillsong United",
+      "has_synced": true,
+      "path": "select/15_Even_When_It_Hurts_(Praise_Song)_[In_The_Cold_Night_Of_A_Not_Too_Distant_War]_(L_Hillsong_United.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cold Night",
+      "artist": "HANA",
+      "has_synced": false,
+      "path": "select/pl_01_Cold_Night_HANA.txt"
+    }
+  ]
+}
